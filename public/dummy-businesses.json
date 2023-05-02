@@ -1,0 +1,35 @@
+{
+    "businesses": [
+      {
+        "name": "Sushi Restaurant",
+        "unlockingPrice": 10,
+        "currentLevel": 0,
+        "baseRewards": 3,
+        "baseUpgradingPrice": 5,
+        "cooldown": 1,
+        "managerCost": 100,
+        "isManaged": false
+      },
+      {
+        "name": "Coffee Shop",
+        "unlockingPrice": 50,
+        "currentLevel": 0,
+        "baseRewards": 15,
+        "baseUpgradingPrice": 50,
+        "cooldown": 2,
+        "managerCost": 500,
+        "isManaged": false
+      },
+      {
+        "name": "Thrift Shop",
+        "unlockingPrice": 200,
+        "currentLevel": 0,
+        "baseRewards": 60,
+        "baseUpgradingPrice": 200,
+        "cooldown": 5,
+        "managerCost": 2000,
+        "isManaged": false
+      }
+    ]
+  }
+  
